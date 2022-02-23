@@ -1,0 +1,3 @@
+git config --global alias.squash-all '!f(){ git reset $(git commit-tree HEAD^{tree} -m "${1:-Squashed}");};f'
+git squash-all
+git push --force origin main

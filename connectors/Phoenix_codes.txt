@@ -1,0 +1,21 @@
+1682171
+SAC-4P-M 8MS/3,0-PUR/M 8FS
+Sensor Cable, M8 Plug, M8 Receptacle, 4 Positions, 3 m
+
+1681790
+SAC-4P-M 8MS/3,0-PUR
+Sensor Cable, M8 Plug, Free End, 4 Positions, 3 m
+
+---> 1500363 <---- Gardenbot
+SACC-E-M 8FS-4CON-M8/05
+Flush-type connector, front mount
+Sensor Cable, M8 Receptacle, Free End, 4 Positions, 500 mm
+
+  1504071
+  SACC-E-MU-M 8
+  M8 contramoer
+
+1456093
+SACC-DSI-M8FS-4CON-M10/0,5
+Flush-type connector, rear mount
+Sensor Cable, Flush, M8 Receptacle, Free End, 4 Positions, 500 mm
