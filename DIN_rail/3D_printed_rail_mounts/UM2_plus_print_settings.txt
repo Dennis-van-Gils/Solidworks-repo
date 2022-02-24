@@ -1,0 +1,5 @@
+Material: XT copolyester clear
+nozzle: 240 deg C
+bed: 50 deg C
+flow: 105%
+no fans
